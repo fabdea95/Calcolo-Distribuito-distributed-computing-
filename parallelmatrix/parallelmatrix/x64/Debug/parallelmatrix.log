@@ -1,0 +1,3 @@
+﻿  host.cpp
+c:\users\fabde\source\repos\parallelmatrix\parallelmatrix\host.cpp(21): warning C4101: 'source_size': variabile locale senza riferimenti
+  parallelmatrix.vcxproj -> C:\Users\fabde\source\repos\parallelmatrix\x64\Debug\parallelmatrix.exe
