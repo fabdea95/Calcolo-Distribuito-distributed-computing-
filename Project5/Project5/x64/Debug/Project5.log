@@ -1,0 +1,8 @@
+﻿  convolution.c
+c:\users\fabde\downloads\opencl_image\opencl_image\convolution.c(19): warning C4068: pragma sconosciuto
+c:\users\fabde\downloads\opencl_image\opencl_image\convolution.c(36): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+c:\users\fabde\downloads\opencl_image\opencl_image\convolution.c(74): warning C4244: '=': conversione da 'int' a 'float'. Possibile perdita di dati.
+c:\users\fabde\downloads\opencl_image\opencl_image\convolution.c(206): warning C4244: '=': conversione da 'int' a 'float'. Possibile perdita di dati.
+c:\users\fabde\downloads\opencl_image\opencl_image\convolution.c(239): warning C4244: '=': conversione da 'int' a 'float'. Possibile perdita di dati.
+c:\users\fabde\downloads\opencl_image\opencl_image\convolution.c(270): warning C4244: '=': conversione da 'int' a 'float'. Possibile perdita di dati.
+  Project5.vcxproj -> C:\Users\fabde\source\repos\Project5\x64\Debug\Project5.exe
