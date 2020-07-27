@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: la directory intermedia (x64\Debug\) contiene file condivisi da un altro progetto (Parallel_matrix.vcxproj). Tale condizione può comportare un comportamento di pulizia e ricompilazione non corretto.
+  host.cpp
+c:\users\fabde\source\repos\webmatrix\webmatrix\host.cpp(24): warning C4101: 'source_size': variabile locale senza riferimenti
+c:\users\fabde\source\repos\webmatrix\webmatrix\host.cpp(167): warning C4101: 'i': variabile locale senza riferimenti
+  Webmatrix.vcxproj -> C:\Users\fabde\source\repos\Webmatrix\x64\Debug\Webmatrix.exe
