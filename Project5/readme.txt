@@ -1,3 +1,6 @@
+IMAGE CONVOLUTION
+
+
 The legal arguments you can pass to it are:
 -h		Displays this help message
 -i		The name of the input image. (Default: image.BMP)
